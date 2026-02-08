@@ -106,22 +106,4 @@ Have questions or want to collaborate? Reach out to our team!
 
 **Made with ❤️ by Team iT3rat0r for NASA Space Apps Challenge 2025**
 
-_Inspiring young minds to reach for the stars!_
 
-```
-
-This README includes:
-
-- **Eye-catching badges** for quick project info
-- **Clear project description** with your team story
-- **Comprehensive feature list** with emojis
-- **Tech stack** information
-- **Target audience** and learning objectives
-- **NASA Challenge** context
-- **Team information** highlighting the all-girls aspect
-- **Quick start** instructions
-- **Live demo link**
-- **Professional formatting** with sections and spacing
-```
-
-The README is professional, engaging, and clearly communicates your project's value and purpose for the NASA Space Apps Challenge!
